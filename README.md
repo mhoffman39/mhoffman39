@@ -9,8 +9,8 @@ I spent 21 years exploring the world in the US Navy submarine service. Now I'm e
 
 Learn more at [www.mason-hoffman.com](https://www.mason-hoffman.com).
 
-🎉 I just completed the AWS Cloud Certified Practitioner certification!
-🔭 I’m currently working on an application to help me view bicycle training data here: https://github.com/mhoffman39/Zwift-Analyzer/
+🎉 I just completed the AWS Cloud Certified Practitioner certification! 
+🔭 I’m currently working on an application to help me view bicycle training data here: https://github.com/mhoffman39/Zwift-Analyzer/. 
 <!-- 🌱 I’m currently learning WCAG and blockchain!  -->
 
 ### Tech Stack:
