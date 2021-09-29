@@ -9,8 +9,9 @@ I spent 21 years exploring the world in the US Navy submarine service. Now I'm e
 
 Learn more at [www.mason-hoffman.com](https://www.mason-hoffman.com).
 
-🔭 I’m currently working on https://vegan-messenger-559e0.web.app/ 
-🌱 I’m currently learning WCAG and blockchain! 
+🎉 I just completed the AWS Cloud Certified Practitioner certification!
+🔭 I’m currently working on an application to help me view bicycle training data here: https://github.com/mhoffman39/Zwift-Analyzer
+<!-- 🌱 I’m currently learning WCAG and blockchain!  -->
 
 ### Tech Stack:
 
@@ -20,11 +21,11 @@ JavaScript (ES5/ES6), React, CSS, HTML
 
 **Back-End:**
 
-Node.js, Express, MySQL, PostgreSQL, MongoDB
+Node.js, Express, MySQL, PostgreSQL, MongoDB, AWS
 
 **Tools:**
 
-Git, Webpack, Babel, Docker, Heroku, npm, Jest
+Git, npm, Jest, Jenkins, BrowserStack
 
 **Techniques:**
 
