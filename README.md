@@ -3,11 +3,11 @@
 
 ## I'm Mason. Welcome to my github!
 
-### I'm a Full-Stack Developer in the beautiful Pacific Northwest. ⛰
+### I'm a Full-Stack Developer living in the beautiful Pacific Northwest. ⛰
 
 I spent 21 years exploring the world in the US Navy submarine service. Now I'm exploring my passion for computer engineering. I love see a new project take shape as I transform an idea into code and see the results immediately on the screen.  
 
-Learn more at [https://www.mason-hoffman.com](https://www.mason-hoffman.com).
+Learn more at [www.mason-hoffman.com](https://www.mason-hoffman.com).
 
 🔭 I’m currently working on https://vegan-messenger-559e0.web.app/ 
 🌱 I’m currently learning WCAG and blockchain! 
