@@ -1,4 +1,4 @@
-![Sub picture](https://github.com/mhoffman39/mhoffman39/blob/main/Image340.jpeg) -->
+![Sub picture](https://github.com/mhoffman39/mhoffman39/blob/main/Image340.jpeg)
 
 
 ## I'm Mason. Welcome to my github!
