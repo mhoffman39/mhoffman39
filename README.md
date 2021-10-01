@@ -1,4 +1,4 @@
-![Sub picture](https://github.com/mhoffman39/mhoffman39/blob/main/140628-N-QO773-025-slider.jpeg)
+![Sub picture]( https://github.com/mhoffman39/mhoffman39/blob/main/140628-N-QO773-025-slider.jpeg)
 
 
 ## I'm Mason. Welcome to my github!
