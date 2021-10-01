@@ -5,7 +5,7 @@
 
 ### I'm a Full-Stack Developer living in the beautiful Pacific Northwest. ⛰
 
-I spent 21 years exploring the world in the US Navy submarine service. Now I'm exploring my passion for computer engineering. I love see a new project take shape as I transform an idea into code and see the results immediately on the screen.  
+I spent 21 years exploring the world in the US Navy submarine service. Now I'm exploring my passion for computer engineering. I love seeing a new project take shape as I transform an idea into code and see the results immediately on the screen.  
 
 ### Connect with me
 [www.mason-hoffman.com](https://www.mason-hoffman.com) [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mason-hoffman)
