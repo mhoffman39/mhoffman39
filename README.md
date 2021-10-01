@@ -21,27 +21,20 @@ I spent 21 years exploring the world in the US Navy submarine service. Now I'm e
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 
-
-#**Front-End:**
-
+**Front-End:**
 JavaScript (ES5/ES6), React, CSS, HTML
 
 **Back-End:**
-
 Node.js, Express, MySQL, PostgreSQL, MongoDB, AWS
 
 **Tools:**
-
 Git, npm, Jest, Jenkins, BrowserStack
 
 **Techniques:**
-
 Agile Development, RESTful Design
 
-<!--
-**earthlymeg/earthlymeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...![me](https://user-images.githubusercontent.com/65035613/123011410-8aeb9600-d37d-11eb-93cf-f6769fbb8e15.jpg)
@@ -51,5 +44,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
