@@ -16,7 +16,7 @@ I spent 21 years exploring the world in the US Navy submarine service. Now I'm e
 <!-- 🌱 I’m currently learning WCAG and blockchain!  -->
 
 ## Expertise
-<img align="left" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg" />
+<img align="left" alt="JavaScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/32px-Javascript-shield.svg.png" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
