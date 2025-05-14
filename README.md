@@ -11,10 +11,6 @@ I spent 21 years exploring the world in the US Navy submarine service. Now I'm e
 [www.mason-hoffman.com](https://www.mason-hoffman.com) [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mason-hoffman)
 
 
-🎉 I just completed the AWS Cloud Certified Practitioner certification!  
-🔭 This is the project I'm currently working on: https://github.com/mhoffman39/Zwift-Analyzer/. 
-
-
 ## Expertise
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript%20-%0c18c2.svg?&style=for-the-badge&logo=JavaScript&logoColor=white" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
